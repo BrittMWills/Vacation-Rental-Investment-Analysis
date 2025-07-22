@@ -1,2 +1,2 @@
 # Vacation-Rental-Investment-Analysis
-Evaluates potential vacation rental properties to identify the most advantageous investment opportunities based on neighborhood desirability, property size, and income potential. The analysis supports informed, data-driven decision-making for short-term rental investments.
+https://docs.google.com/spreadsheets/d/15b-i35RTqVxFyiVd7FahPGweMy2IGuv9zDjMFAYXt3E/edit?gid=1342480244#gid=1342480244 
